@@ -1,3 +1,0 @@
-/Users/evgeniy.domashenko/SkillboxProject/11. functions/11.6.4/cmake-build-debug/CMakeFiles/11_6_4.dir
-/Users/evgeniy.domashenko/SkillboxProject/11. functions/11.6.4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/evgeniy.domashenko/SkillboxProject/11. functions/11.6.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
